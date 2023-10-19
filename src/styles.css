@@ -1,0 +1,22 @@
+.bgImg {
+  background-size: cover;
+  background-position: center;
+}
+
+.nav-link {
+  color: #ddd;
+}
+
+.nav-link:hover {
+  color: #ff6347;
+}
+
+.nav-item {
+  margin-inline: 8px;
+}
+
+.wrapper {
+  height: 100%;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.5);
+}

@@ -1,0 +1,93 @@
+{
+  "coffee": [
+    {
+      "url": "https://cafedeoro-rw.com/wp-content/uploads/2017/10/mocha.jpg",
+      "title": "Mocha",
+      "price": "$4.15"
+    },
+    {
+      "url": "https://tastylicious.com/wp-content/uploads/2022/12/freshly-made-americano-in-white-ceramic-mug-on-wooden-table-500x500.jpg",
+      "title": "Americano",
+      "price": "$3.45"
+    },
+    {
+      "url": "https://coffeeatthree.com/wp-content/uploads/espresso-2-500x500.jpg",
+      "title": "Espresso",
+      "price": "$5.10"
+    },
+    {
+      "url": "https://dwellbymichelle.com/wp-content/uploads/2020/12/DWELL-Cozy-Gingerbread-Latte-500x500.jpg",
+      "title": "Latte",
+      "price": "$3.65"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLV-ldx6wsxYzKnHVMi6F18IepamtZaeWUWg&usqp=CAU",
+      "title": "Cappuccino",
+      "price": "$4.45"
+    },
+    {
+      "url": "https://celebratingsweets.com/wp-content/uploads/2017/06/Espresso-Chip-Frappe-2-500x500.jpg",
+      "title": "Frappe",
+      "price": "$3.65"
+    },
+    {
+      "url": "https://celebratingsweets.com/wp-content/uploads/2017/04/Vanilla-Cold-Brew-Coffee-3-500x500.jpg",
+      "title": "Brewed Coffee",
+      "price": "$2.10"
+    }
+  ],
+  "beverages": [
+    {
+      "url": "https://mytastycurry.com/wp-content/uploads/2017/04/Iced-Tea-featured-500x500.jpg",
+      "title": "Iced Tea",
+      "price": "$1.75"
+    },
+    {
+      "url": "https://www.haikosupermarket.com/wp-content/uploads/2021/01/16426-COCA-COLA-SOFT-DRINK-DIET-COKE-300ML.jpg",
+      "title": "Diet Coke",
+      "price": "$2.20"
+    },
+    {
+      "url": "https://bakingamoment.com/wp-content/uploads/2019/07/IMG_5585-lemonade-500x500.jpg",
+      "title": "Lemonade",
+      "price": "$1.25"
+    },
+    {
+      "url": "https://cdn.loveandlemons.com/wp-content/uploads/2020/07/mojito-500x500.jpg",
+      "title": "Mint Mojito",
+      "price": "$1.55"
+    }
+  ],
+  "snacks": [
+    {
+      "url": "https://food14.com/wp-content/uploads/2021/10/Veg-Club-Sandwich-Recipe-500x500.jpg",
+      "title": "Sandwich",
+      "price": "$3.40"
+    },
+    {
+      "url": "https://hurrythefoodup.com/wp-content/uploads/2015/06/Tangy-Veggie-Wrap-1-500x500.jpg",
+      "title": "Veggie Wrap",
+      "price": "$4.35"
+    },
+    {
+      "url": "https://biancazapatka.com/wp-content/uploads/2020/05/veganer-bohnen-burger-500x500.jpg",
+      "title": "Veg Burger",
+      "price": "$3.20"
+    },
+    {
+      "url": "https://www.cookingcarnival.com/wp-content/uploads/2022/04/Veg-hot-dog-5-500x500.jpg",
+      "title": "Hot Dog",
+      "price": "$3.65"
+    },
+    {
+      "url": "https://thecozycook.com/wp-content/uploads/2020/02/French-Fry-Seasoning-500x500.jpg",
+      "title": "French Fries",
+      "price": "$4.65"
+    },
+    {
+      "url": "https://healthyfitnessmeals.com/wp-content/uploads/2018/06/instagram-In-Stream_Square___banana-protein-donuts-3-500x500.jpg",
+      "title": "Donut",
+      "price": "$3.75"
+    }
+  ]
+}
